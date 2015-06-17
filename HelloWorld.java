@@ -1,6 +1,7 @@
+// Default package
 class HelloWorld {
     public static void main(String[] args) {
-        // This is a comment
+        // Print one line of text
         System.out.println("Hello World!");
     }
 }
